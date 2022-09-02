@@ -1,1 +1,1 @@
-delet betty
+Delete the file betty
