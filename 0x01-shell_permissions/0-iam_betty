@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash \nsu betty
+=======
+#!/bin/bash
+su betty
+>>>>>>> 529da60ed76f819ed7eb5114e06229b2b75edce8
